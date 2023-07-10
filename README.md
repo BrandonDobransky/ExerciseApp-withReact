@@ -1,6 +1,10 @@
 # Getting Started with Create React App
+# I followed a tutorial from JavaScript Mastery to create this app. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Future improvements include fixing the bugs that still exist but I am still learning! Check it out!
+
 
 ## Available Scripts
 
